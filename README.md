@@ -14,7 +14,7 @@
 #### Nodejs Back-end Server : https://jsserver-pi25.onrender.com
 #### Python Back-end Server : https://pythonserver-6.onrender.com
 
-Vì 2 Server BackEnd được deploy trên 2 máy chủ free với 0.1 GPU nên khá chậm và khi có những resquest đầu tiên dùng để yêu cầu như đăng nhập đăng kí tới thì cần một thời gian để server có thể restart và trả về response 
+Vì 2 Server BackEnd được deploy trên 2 máy chủ free với 0.1 GPU nên khá chậm và khi có những resquest đầu tiên dùng để yêu cầu như đăng nhập đăng kí tới thì cần một thời gian để server có thể restart và response data
 
 #### Do có thể chậm trễ khi request data lúc đầu vì Server chưa được khởi động nên có thể sử dụng Postman để test
 - Ví dụ về tiến hành đăng kí
